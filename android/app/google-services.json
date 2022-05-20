@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799234292735",
+    "firebase_url": "https://face-analyzer-97788.firebaseio.com",
+    "project_id": "face-analyzer-97788",
+    "storage_bucket": "face-analyzer-97788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799234292735:android:3f7ed7759483dc9738c5ca",
+        "android_client_info": {
+          "package_name": "com.cooldeveloper.faceanalyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799234292735-82ne1sgi20o6ud83n8g5do0vn4b6mtq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCXH6wQEYExiOpTQqyuBg0RoxXvTrIWio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799234292735-82ne1sgi20o6ud83n8g5do0vn4b6mtq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
